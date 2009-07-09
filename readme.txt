@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== GTalk ===
 Contributors: Kinshuk Kulshreshtha
 Donate link: http://anshisolutions.com/
 Tags: Gtalk, Chat
